@@ -1,9 +1,15 @@
-[![MasterHead]()]
-
+<!--
+<div style="text-align:center">
+  <img src="" alt="">
+</div>
+-->
+<br>
 <h1 align="center">Hi 👋, I'm Razvan Gorea</h1>
 <h3 align="center">A passionate CS student from Ireland</h3>
 
+<!--
 <img align="right" alt="Coding" width=400 src="">
+-->
 
 - 🔭 I’m currently working on **a blog web application with django**
 
