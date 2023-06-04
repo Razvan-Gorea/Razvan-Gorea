@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **We humans breathe on average 22,000 times a day**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
