@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Razvan Gorea</h1>
 <h3 align="center">A passionate CS student from Ireland</h3>
 
-<img align="right" alt="Coding" width=400 src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F3bTxZ4HdrysAAAAC%2Fpixels-neon.gif&tbnid=cq0MNHqRxa3ApM&vet=12ahUKEwjpwLOHw6n_AhXMSEEAHcFcBW0QxiAoCHoECAAQGA..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fpixels-neon-old-80s-hacker-gif-21156226&docid=NWhLRM9hVrPm_M&w=498&h=280&itg=1&q=animated%20cyberpunk%20programmer%20gif&hl=en-GB&ved=2ahUKEwjpwLOHw6n_AhXMSEEAHcFcBW0QxiAoCHoECAAQGA">
+<img align="right" alt="Coding" width=400 src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F3bTxZ4HdrysAAAAC%2Fpixels-neon.gif&tbnid=cq0MNHqRxa3ApM&vet=12ahUKEwjpwLOHw6n_AhXMSEEAHcFcBW0QxiAoCHoECAAQGA..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fpixels-neon-old-80s-hacker-gif-21156226&docid=NWhLRM9hVrPm_M&w=498&h=280&itg=1&q=animated%20cyberpunk%20programmer%20gif&hl=en-GB&ved=2ahUKEwjpwLOHw6n_AhXMSEEAHcFcBW0QxiAoCHoECAAQGA.gif">
 
 - 🔭 I’m currently working on **a blog web application with django**
 
