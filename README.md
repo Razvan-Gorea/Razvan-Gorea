@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width=400 src="https://wallpaperaccess.com/full/8351160.gif">
 
 
-- 🔭 I’m currently working on **a blog web application with django**
+- 🔭 I’m currently working on **a go game with a few other people**
 
 - 🌱 I’m currently learning **Computer Science in DCU**
 
