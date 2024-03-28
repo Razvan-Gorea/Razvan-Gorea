@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **razvan.gorea2@mail.dcu.ie**
 
-- ⚡ Fun fact **humans breathe on average 22,000 times a day**
-
 <p align="left">
 </p>
 
