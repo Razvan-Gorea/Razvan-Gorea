@@ -5,7 +5,7 @@
  
 ## About
 
-I am a 4th Year Computer Science student at Dublin City University.
+I'm a 4th Year Computer Science student at Dublin City University.
 
 [![Wick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razvan-Gorea&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
