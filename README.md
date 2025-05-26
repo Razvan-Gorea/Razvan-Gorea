@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Razvan, a web developer and Computer Science Graduate based in Dublin, Ireland.<br>    💻 I build full-stack apps with React, Next.js, FastAPI, and Django<br>    ⚙️ Comfortable with CI/CD, Docker, and test-driven development<br>    🌱 Currently exploring multi-agent LLM systems and scalable backend architectures<br>    🧠 I enjoy clean code, smart UIs, and solving real-world problems
+Hi, I'm Razvan, a Web Developer and Computer Science Graduate based in Dublin, Ireland.<br>    💻 I build full-stack apps with React, Next.js, FastAPI, and Django<br>    ⚙️ Comfortable with CI/CD, Docker, and test-driven development<br>    🌱 Currently exploring multi-agent LLM systems and scalable backend architectures<br>    🧠 I enjoy clean code, smart UIs, and solving real-world problems
 
 
 ## 🌐 Socials:
