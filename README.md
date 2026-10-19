@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Razvan 👋</h1>
 
 <p align="center">
-  MSc Artificial Intelligence student @ Dublin City University 🎓 &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Dublin, Ireland 🇮🇪
+  MSc Artificial Intelligence Graduate @ Dublin City University 🎓 &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Dublin, Ireland 🇮🇪
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate currently pursuing a Master's in AI at DCU, with a passion for building full-stack applications and exploring intelligent systems. I enjoy working across the stack — from React frontends to Python backends — and I'm particularly interested in **LLMs, multi-agent systems, and data-driven applications**.
+I'm a Bachelor of Science in Computer Science graduate and Masters of Science in Artificial Intelligence Graduate from DCU, with a passion for building full-stack applications and exploring intelligent systems. I enjoy working across the stack — from React frontends to Python backends — and I'm particularly interested in **LLMs, multi-agent systems, and data-driven applications**.
 
 - 🔬 Former Software Developer at **Insight SFI Research Centre for Data Analytics**
 - 🤖 Interested in **AI agents, LangGraph, and applied ML**
