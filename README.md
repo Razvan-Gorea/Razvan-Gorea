@@ -14,11 +14,10 @@
 
 ## About Me
 
-I'm a Bachelor of Science in Computer Science graduate and Masters of Science in Artificial Intelligence Graduate from DCU, with a passion for building full-stack applications and exploring intelligent systems. I enjoy working across the stack — from React frontends to Python backends — and I'm particularly interested in **LLMs, multi-agent systems, and data-driven applications**.
+I'm a Bachelor of Science in Computer Science graduate and Masters of Science in Artificial Intelligence Graduate from DCU, with a passion for building full-stack applications and exploring intelligent systems. I enjoy working across the stack from React frontends to Python backends and I'm particularly interested in **LLMs, multi-agent systems, and data-driven applications**.
 
-- 🔬 Former Software Developer at **Insight SFI Research Centre for Data Analytics**
-- 🤖 Interested in **AI agents, LangGraph, and applied ML**
-- 🌱 Currently deepening my knowledge in **Machine Learning & Statistical Data Analysis**
+- 🤖 Interested in **AI agents, AI Frameworks/Libraries e.g LangGraph, LangChain and Anthropic SDK etc.**
+- 🌱 Currently deepening my knowledge in **AI Agents**
 - 📍 Based in **Dublin, Ireland**
 
 ---
@@ -29,18 +28,13 @@ I'm a Bachelor of Science in Computer Science graduate and Masters of Science in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 **Tools & Platforms**
 
